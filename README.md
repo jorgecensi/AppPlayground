@@ -1,2 +1,1 @@
-[![Build status](https://jorgecensi.visualstudio.com/AppPlayground/_apis/build/status/AppPlayground-Xamarin.Android-CI?branch=master)](https://jorgecensi.visualstudio.com/AppPlayground/_build/latest?definitionId=2&_a&branch=master)]
-
+[![Build status](https://build.appcenter.ms/v0.1/apps/ed89e352-dc56-4b5c-a431-f0d5794a4411/branches/master/badge)](https://appcenter.ms)
